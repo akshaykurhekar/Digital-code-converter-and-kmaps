@@ -1,0 +1,32 @@
+body{
+
+	background-size:cover;
+
+}
+.kmap{
+	max-height: 1000px;
+	max-width: 1000px;
+	float: none;
+	margin : 50px auto;
+	background: #b3cccc;
+	padding: 100px; 
+	background-position:center;
+}
+
+.codeC{
+	max-height: 1000px;
+	max-width: 1000px;
+	float: none;
+	margin : 50px auto;
+	background:#b3cccc;
+	padding: 100px; 
+background-position:center;
+}
+
+.form-control{
+	background-color: transparent !important; 
+}
+
+
+
+
